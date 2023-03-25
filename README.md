@@ -1,2 +1,2 @@
-# Xposed_demo
+# XposedDemo
 Xposed_demo repository for xposed develop
